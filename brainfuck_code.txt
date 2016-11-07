@@ -1,0 +1,71 @@
+K 75
+P 80
+M 77
+G 71
+{ 123
+Y 89
+0 48
+U 85
+_
+B 66  
+R 82
+@ 64
+1 49
+N 78
+3 51
+D 68
+_ 95
+1 49
+T 84
+_ 95
+0 48
+U 85
+T 84
+! 33	 
+} 125
+
+
++++++ +++++ //counter
+[
+	> +++ // 30 cell 2
+	> ++++ //40 cell 3
+	> +++++ //50 cell 4
+	> +++++ + // 60 cell 5
+	> +++++ ++ // 70 cell 6
+	> +++++ +++ // 80 cell 7
+	> +++++ ++++ //90 cell 8
+	> +++++ +++++ ++ // 120 cell 9
+	<<<<< << -
+]
+>>>> +++++ . // print K; goes to cell 6 (75)
+> . // print P; goes to cell 7 (80)
+< ++ . // print M; goes to cell 6 (77)
+----- - . // print G; reduce from 77 to 71 by 6 at cell 6 (71)
+>>> +++ . // print {; goes to cell 9 (123)
+<< +++++ ++++ . // print Y; goes to cell 7 (89)
+<<<< +++++ +++ . // print 0; goes to cell 3 (48)
+>>>> ---- . // print U; goes to cell 7 (85)
+> +++++ . // print _ , goes to cell 8(95)
+<<< +++++ ++ . // print B; goes to cell 5 (66)
+>> --- . // print R; goes to cell 7 (82)
+<< -- . // print @; goes to cell 5 (64)
+<< + . // print 1; goes to cell 3 (49)
+>>> +++++ ++ . // print N; goes to cell 6 (78)
+<< ++ . // print 3; goes to cell 4 (51)
+> ++++ . // print D; goes to cell 5 (68)
+>>> . // print _; goes to cell 8 (95)
+<<<<< . // print 1; goes to cell 3 (49)
+>>>> ++ . // print T; goes to cell 7 (84)
+> . // print _; goes to cell 8 (95)
+<<<<< - . // print 0; goes to cell 3 (48)
+>>>> + . // print U; goes to cell 7 (85)
+- . // print T; remains at cell 7 reduce value by 1(84)
+<<<<< +++ . // print !; goes to cell 2(33)
+>>>>> >> ++ . // print }; goes to cell 9s (125)
+
+
+
+
+
+
+
