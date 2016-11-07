@@ -1,0 +1,9 @@
+Writeup for Challenge #3
+
+Brain Fuck Programming
+
+If you know how pointers and arrays work, follow the symbols and google about what each symbols function as then you are good to go.
+
+//Still need to add something on
+
+Level: High
