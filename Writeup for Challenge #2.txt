@@ -1,0 +1,9 @@
+Writeup for Challenge #2
+
+Clues are obviously inside the question - Legacy - a fanfiction of Star Wars and of course Luke Skywalker - is one of the important role in Star Wars.
+
+Made minor tamperation with the PNG file structure, correct it and will be able to get the PNG file.
+
+The codes are Star Wars Trade Codes. Google about it and you'll get the list of alphabets with their codes respectively.
+
+Level: Medium
