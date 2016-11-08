@@ -1,5 +1,5 @@
 Writeup for Challenge #1
 
-Go to jsfuck.com on Chrome, with "Eval Source" button checked, copy and paste the massive amount of operators into the bigger text field and click on "Run This". TADA!
+Go to jsfuck.com on Chrome, with "Eval Source" button unchecked, copy and paste the massive amount of operators into the bigger text field and click on "Run This". TADA! Convert the binaries to ascii then you'll get the flag!
 
 Level : Easy Peasy XD
