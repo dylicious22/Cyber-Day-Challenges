@@ -1,0 +1,7 @@
+Challenge #1
+
+Operators
+
+These operators might help you on what you're looking for! Follow them and you'll get to it!
+
+Flag: KPMG{TH4TW4SNTH4RD}

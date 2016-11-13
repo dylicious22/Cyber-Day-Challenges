@@ -1,0 +1,15 @@
+Writeup for Challenge #1
+
+Go to jsfuck.com on Chrome, with "Eval Source" button unchecked, copy and paste the massive amount of operators into the bigger text field and click on "Run This" - You'll get a short javascript. (obfuscated.html)
+
+Run it in Firefox browser with the "Java Deobfuscator" add-ons, you'll get another script.(deobfuscated.html)
+
+Run the script and you'll get this - VXpGQ1RsSXpkRlZUUkZKVlZucFNWRlJzVWtsT1JrcEZabEU5UFE9PQ==
+
+Do Base64 decoding for 3 times and you'll get the flag - KPMG{TH4TW4SNTH4RD}
+
+*First decoding result - UzFCTlIzdFVTRFJVVnpSVFRsUklORkpFZlE9PQ==
+*Second decoding result - S1BNR3tUSDRUVzRTTlRINFJEfQ==
+*Third decoding result - KPMG{TH4TW4SNTH4RD}
+
+Level : Difficult 
